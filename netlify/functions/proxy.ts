@@ -34,17 +34,10 @@ export default async (request: Request, context: Context) => {
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>OpenAI API Proxy on Netlify Edge</title>
+  <title>OAP on Edge</title>
 </head>
 <body>
-  <h1 id="openai-api-proxy-on-netlify-edge">OpenAI API Proxy on Netlify Edge</h1>
-  <p>Tips: This project uses a reverse proxy to access OpenAI services, bypassing location restrictions or other constraints.</p>
-  <p>If you have any of the following requirements, you may need the support of this project:</p>
-  <ol>
-  <li>When there are restrictions on your use of OpenAI services based on your location</li>
-  <li>You want to customize the API usage</li>
-  </ol>
-  <p>For technical discussions, please visit <a href="https://simonmy.com/posts/使用netlify反向代理openai-api.html">https://simonmy.com/posts/使用netlify反向代理openai-api.html</a></p>
+  <li>You API usage</li>
 </body>
 </html>
     `
